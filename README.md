@@ -20,7 +20,7 @@ I'm a dedicated Front-End Developer from India, focused on building beautiful an
 
 🤝 Connect with Me
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/truptii/">
+<a href="https://www.linkedin.com/in/truptii/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 </p>
