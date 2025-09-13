@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-Hi 👋, I'm Trupti Dhandar
+Hi 👋, I'm Trupti Manohar Dhandar
 </h1>
 <h3 align="center">Passionate Front-End Developer | Java & Python Enthusiast | DevOps Learner</h3>
 
@@ -16,11 +16,11 @@ I'm a dedicated Front-End Developer from India, focused on building beautiful an
 
 💬   Ask me about HTML, CSS, JavaScript, Java, or Python!
 
-📫   How to reach me: truptipawar.dev@email.com
+📫   How to reach me: trupti.dhandar64@gmail.com
 
 🤝 Connect with Me
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/trupti-pawar-4790a8241/">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/truptii/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 </p>
