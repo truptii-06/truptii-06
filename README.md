@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">
 Hi 👋, I'm Trupti Manohar Dhandar
@@ -13,7 +13,7 @@ I'm a dedicated Front-End Developer from India, focused on building beautiful an
 • 📫   How to reach me: trupti.dhandar64@gmail.com
 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/truptii/">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/truptii/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 </p>
@@ -36,12 +36,9 @@ Tools & Platforms:
 </p>
 🔥 My Stats
 <p align="center">
-<!-- GitHub Streak Stats -->
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtruptii-06%26theme%3Ddark%26hide_border%3Dtrue%26date_format%3DM%2520j%255B%252C%2520Y%255D" alt="GitHub Streak" />
 <br><br>
-<!-- Top Languages Card -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtruptii-06%26layout%3Dcompact%26theme%3Dvision-friendly-dark" alt="Top Languages" />
 <br><br>
-<!-- Profile Views Counter -->
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtruptii-06%26style%3Dflat-square%26color%3Dblue" alt="Profile Views"/>
 </p>
